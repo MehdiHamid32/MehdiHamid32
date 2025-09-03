@@ -74,7 +74,3 @@
 ## 🌐 Connect with Me
 - 📷 Instagram: [@MehdiHamid1223](https://instagram.com/mehdihamid1223)  
 - 🧬 Telegram : [@nodeModule](https://t.me/nodeModule)  
-
----
-
-![Snake animation](https://github.com/MehdiHamid32/MehdiHamid32/blob/output/snake.svg)
